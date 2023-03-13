@@ -4,5 +4,6 @@
 系級：科技碩三年級
 ### 五次作業影片
 #### Prefix Sum
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 #### String
 ### 期末刷題分享會
