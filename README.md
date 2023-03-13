@@ -4,6 +4,6 @@
 系級：科技碩三年級
 ### 五次作業影片
 #### Prefix Sum
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/ChuanWeiSYU/DS/blob/main/1480.%20Running%20Sum%20of%201d%20Array.png)](https://drive.google.com/file/d/1-7f9NE7cguYT7KwIZ-o3InL7Woz_VX1F/view?usp=share_link)
 #### String
 ### 期末刷題分享會
