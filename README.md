@@ -6,5 +6,5 @@
 #### Prefix Sum (第一次)
 [![Watch the video](https://github.com/ChuanWeiSYU/DS/blob/main/1480.%20Running%20Sum%20of%201d%20Array.png)](https://drive.google.com/file/d/1-7f9NE7cguYT7KwIZ-o3InL7Woz_VX1F/view?usp=share_link)
 #### String (第一次)
-[![Watch the video](https://github.com/ChuanWeiSYU/DS/blob/main/1480.%20Running%20Sum%20of%201d%20Array.png)](https://drive.google.com/file/d/1-7f9NE7cguYT7KwIZ-o3InL7Woz_VX1F/view?usp=share_link)
+[![Watch the video](https://github.com/ChuanWeiSYU/DS/blob/main/1480.%20Running%20Sum%20of%201d%20Array.png)](https://drive.google.com/file/d/1E3UjKl_Knqv9hMipH_yq5ILgBPbWZ_h-/view?usp=sharing)
 ### 期末刷題分享會
