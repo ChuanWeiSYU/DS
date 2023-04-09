@@ -10,7 +10,7 @@
 #### Greedy (第二次作業)
 [![Watch the video](https://github.com/ChuanWeiSYU/DS/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.png)](https://drive.google.com/file/d/1n9siuQoUf7QFVvjXsET3VeGgjEpvBtFc/view?usp=share_link)
 #### Tree (第二次作業)
-[![Watch the video](https://github.com/ChuanWeiSYU/DS/blob/main/205.%20Isomorphic%20Strings.png)](https://drive.google.com/file/d/1E3UjKl_Knqv9hMipH_yq5ILgBPbWZ_h-/view?usp=sharing)
+[![Watch the video](https://github.com/ChuanWeiSYU/DS/blob/main/589.%20N-ary%20Tree%20Preorder%20Traversal.png)](https://drive.google.com/file/d/1aODcyYxVaj2BXRxul70xhXAicHt_wOvR/view?usp=share_link)
 #### Binary Search-1 (第三次作業)
 [![Watch the video](https://github.com/ChuanWeiSYU/DS/blob/main/205.%20Isomorphic%20Strings.png)](https://drive.google.com/file/d/1E3UjKl_Knqv9hMipH_yq5ILgBPbWZ_h-/view?usp=sharing)
 #### Binary Search-2 (第三次作業)
